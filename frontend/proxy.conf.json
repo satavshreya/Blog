@@ -1,0 +1,6 @@
+{
+    "/api": {
+      "target": "https://blogging-backend-mushu.herokuapp.com",
+      "secure": false
+    }
+  }
